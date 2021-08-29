@@ -38,3 +38,12 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 Here is a random change I made while playing with step number 5. **oo look it's bolded**
+
+
+# Viashnavi's first CS193 homework!
+- I have some friends in the class, so I won't feel super lonely :)
+- the instructors seem chill
+- the classroom has cool chairs
+- CS193 is not at 7:30 in the morning 🤮
+- GitHub also has emojis! yay
+- that's all folks.
